@@ -1,7 +1,7 @@
 # isco
 Innermost Stable Circular Orbit for Rapidly Rotating Neutron Stars
 
-his code computes the structure of rapidly rotating neutron star and outputs the orbital frequency for a particle orbiting at the ISCO.
+This code computes the structure of rapidly rotating neutron star and outputs the orbital frequency for a particle orbiting at the ISCO.
 
 1. INPUT: Provide the code with an equation of state file, a range of central energy densities and a spin frequency.
 
